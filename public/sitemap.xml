@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
@@ -11,12 +14,6 @@
     <loc>http://localhost:1313/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
-    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +21,9 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/text/</loc>
