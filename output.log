@@ -1,0 +1,848 @@
+LOG:   2023/06/25 20:04:15 Built in 87 ms
+LOG:   2023/06/25 20:04:15 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
+INFO 2023/06/25 20:05:58 syncing static files to /home/jose/projects/s3_website/website/hugo_personal/public/
+DEBUG 2023/06/25 20:05:58 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 20:05:58 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 20:05:58 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 20:05:58 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 20:05:58 Render page External Page: Hugo Coder Wiki to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Suporte a Emojis to "/posts/emoji-support.pt-br/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Emoji Support to "/posts/emoji-support/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Página Externa: Wiki Hugo Coder to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Guia de Sintaxe Markdown to "/posts/markdown-syntax.pt-br/index.html"
+DEBUG 2023/06/25 20:05:58 Render page HTML and CSS only tabs to "/posts/html-and-css-only-tabs/index.html"
+DEBUG 2023/06/25 20:05:58 found menu: "main", in site config
+DEBUG 2023/06/25 20:05:58 Render page Markdown Syntax Guide to "/posts/markdown-syntax/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Configuração de Equações Matemáticas to "/posts/math-typesetting.pt-br/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Math Typesetting to "/posts/math-typesetting/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Mermaid JS support to "/posts/mermaid-support/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Mais Conteúdo Rico to "/posts/more-rich-content.pt-br/index.html"
+DEBUG 2023/06/25 20:05:58 Render page More Rich Content to "/posts/more-rich-content/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Texto de Exemplo to "/posts/placeholder-text.pt-br/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Conteúdo Rico to "/posts/rich-content.pt-br/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Rich Content to "/posts/rich-content/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Authors to "/authors/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Development to "/categories/development/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /categories/development/page/1/index.html redirecting to http://localhost:1313/categories/development/
+DEBUG 2023/06/25 20:05:58 Render page temas to "/categoria/temas/index.html"
+DEBUG 2023/06/25 20:05:58 Render page sintaxe to "/categoria/sintaxe/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Categories to "/categories/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Posts to "/posts/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Series to "/series/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Guia do Thema to "/series/guia-do-thema/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Hugo to "/series/hugo/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Theme to "/series/theme/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Themes Guide to "/series/themes-guide/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 20:05:58 creating alias: /series/guia-do-thema/page/1/index.html redirecting to http://localhost:1313/series/guia-do-thema/
+DEBUG 2023/06/25 20:05:58 creating alias: /series/hugo/page/1/index.html redirecting to http://localhost:1313/series/hugo/
+DEBUG 2023/06/25 20:05:58 creating alias: /series/theme/page/1/index.html redirecting to http://localhost:1313/series/theme/
+DEBUG 2023/06/25 20:05:58 creating alias: /series/themes-guide/page/1/index.html redirecting to http://localhost:1313/series/themes-guide/
+DEBUG 2023/06/25 20:05:58 Render page Tags to "/tags/index.html"
+DEBUG 2023/06/25 20:05:58 Render page development to "/tags/development/index.html"
+DEBUG 2023/06/25 20:05:58 Render page privacy to "/tags/privacy/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/development/page/1/index.html redirecting to http://localhost:1313/tags/development/
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/privacy/page/1/index.html redirecting to http://localhost:1313/tags/privacy/
+DEBUG 2023/06/25 20:05:58 Render page markdown to "/tags/markdown/index.html"
+DEBUG 2023/06/25 20:05:58 Render page text to "/tags/text/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/text/page/1/index.html redirecting to http://localhost:1313/tags/text/
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/markdown/page/1/index.html redirecting to http://localhost:1313/tags/markdown/
+DEBUG 2023/06/25 20:05:58 Render page themes to "/tags/themes/index.html"
+DEBUG 2023/06/25 20:05:58 Render page Códigos curtos to "/tags/shortcodes/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/themes/page/1/index.html redirecting to http://localhost:1313/tags/themes/
+DEBUG 2023/06/25 20:05:58 Render page css to "/tags/css/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/css/page/1/index.html redirecting to http://localhost:1313/tags/css/
+DEBUG 2023/06/25 20:05:58 Render page html to "/tags/html/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/html/page/1/index.html redirecting to http://localhost:1313/tags/html/
+DEBUG 2023/06/25 20:05:58 Render page emoji to "/tags/emoji/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/emoji/page/1/index.html redirecting to http://localhost:1313/tags/emoji/
+DEBUG 2023/06/25 20:05:58 Render page hugo to "/tags/hugo/index.html"
+DEBUG 2023/06/25 20:05:58 creating alias: /posts/page/1/index.html redirecting to http://localhost:1313/posts/
+DEBUG 2023/06/25 20:05:58 creating alias: /tags/hugo/page/1/index.html redirecting to http://localhost:1313/tags/hugo/
+DEBUG 2023/06/25 20:05:58 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 20:05:58 Render 404 page to "/404.html"
+DEBUG 2023/06/25 20:05:58 Render page Posts to "/posts/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Authors to "/authors/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Development to "/categories/development/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Hugo to "/series/hugo/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Categories to "/categories/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Series to "/series/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Theme to "/series/theme/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Themes Guide to "/series/themes-guide/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Tags to "/tags/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page Guia do Thema to "/series/guia-do-thema/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page development to "/tags/development/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page hugo to "/tags/hugo/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page emoji to "/tags/emoji/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page markdown to "/tags/markdown/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page html to "/tags/html/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page privacy to "/tags/privacy/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page text to "/tags/text/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page themes to "/tags/themes/index.xml"
+DEBUG 2023/06/25 20:05:58 Render page css to "/tags/css/index.xml"
+LOG:   2023/06/25 20:05:58 Built in 92 ms
+LOG:   2023/06/25 20:05:58 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
+INFO 2023/06/25 21:26:29 syncing static files to /home/jose/projects/s3_website/website/hugo_personal/public/
+DEBUG 2023/06/25 21:26:29 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:26:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:26:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:26:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:26:29 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Suporte a Emojis to "/posts/emoji-support.pt-br/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Emoji Support to "/posts/emoji-support/index.html"
+DEBUG 2023/06/25 21:26:29 Render page External Page: Hugo Coder Wiki to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Página Externa: Wiki Hugo Coder to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:26:29 Render page HTML and CSS only tabs to "/posts/html-and-css-only-tabs/index.html"
+DEBUG 2023/06/25 21:26:29 found menu: "main", in site config
+DEBUG 2023/06/25 21:26:29 Render page Guia de Sintaxe Markdown to "/posts/markdown-syntax.pt-br/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Markdown Syntax Guide to "/posts/markdown-syntax/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Configuração de Equações Matemáticas to "/posts/math-typesetting.pt-br/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Math Typesetting to "/posts/math-typesetting/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Mermaid JS support to "/posts/mermaid-support/index.html"
+DEBUG 2023/06/25 21:26:29 Render page More Rich Content to "/posts/more-rich-content/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Mais Conteúdo Rico to "/posts/more-rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Texto de Exemplo to "/posts/placeholder-text.pt-br/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Rich Content to "/posts/rich-content/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Conteúdo Rico to "/posts/rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Posts to "/posts/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Categories to "/categories/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Authors to "/authors/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Series to "/series/index.html"
+DEBUG 2023/06/25 21:26:29 Render page sintaxe to "/categoria/sintaxe/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:26:29 Render page temas to "/categoria/temas/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Development to "/categories/development/index.html"
+DEBUG 2023/06/25 21:26:29 creating alias: /categories/development/page/1/index.html redirecting to http://localhost:1313/categories/development/
+DEBUG 2023/06/25 21:26:29 Render page Theme to "/series/theme/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Guia do Thema to "/series/guia-do-thema/index.html"
+DEBUG 2023/06/25 21:26:29 creating alias: /series/theme/page/1/index.html redirecting to http://localhost:1313/series/theme/
+DEBUG 2023/06/25 21:26:29 creating alias: /series/guia-do-thema/page/1/index.html redirecting to http://localhost:1313/series/guia-do-thema/
+DEBUG 2023/06/25 21:26:29 Render page Themes Guide to "/series/themes-guide/index.html"
+DEBUG 2023/06/25 21:26:29 Render page Hugo to "/series/hugo/index.html"
+DEBUG 2023/06/25 21:26:29 creating alias: /series/themes-guide/page/1/index.html redirecting to http://localhost:1313/series/themes-guide/
+DEBUG 2023/06/25 21:26:29 creating alias: /series/hugo/page/1/index.html redirecting to http://localhost:1313/series/hugo/
+DEBUG 2023/06/25 21:26:29 Render page Tags to "/tags/index.html"
+DEBUG 2023/06/25 21:26:29 creating alias: /posts/page/1/index.html redirecting to http://localhost:1313/posts/
+DEBUG 2023/06/25 21:26:29 Render page css to "/tags/css/index.html"
+DEBUG 2023/06/25 21:26:29 Render page html to "/tags/html/index.html"
+DEBUG 2023/06/25 21:26:29 Render page emoji to "/tags/emoji/index.html"
+DEBUG 2023/06/25 21:26:29 Render page hugo to "/tags/hugo/index.html"
+DEBUG 2023/06/25 21:26:29 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/css/page/1/index.html redirecting to http://localhost:1313/tags/css/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/emoji/page/1/index.html redirecting to http://localhost:1313/tags/emoji/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/html/page/1/index.html redirecting to http://localhost:1313/tags/html/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/hugo/page/1/index.html redirecting to http://localhost:1313/tags/hugo/
+DEBUG 2023/06/25 21:26:29 Render page development to "/tags/development/index.html"
+DEBUG 2023/06/25 21:26:29 Render page text to "/tags/text/index.html"
+DEBUG 2023/06/25 21:26:29 Render page themes to "/tags/themes/index.html"
+DEBUG 2023/06/25 21:26:29 Render page privacy to "/tags/privacy/index.html"
+DEBUG 2023/06/25 21:26:29 Render page markdown to "/tags/markdown/index.html"
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/development/page/1/index.html redirecting to http://localhost:1313/tags/development/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/text/page/1/index.html redirecting to http://localhost:1313/tags/text/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/themes/page/1/index.html redirecting to http://localhost:1313/tags/themes/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/privacy/page/1/index.html redirecting to http://localhost:1313/tags/privacy/
+DEBUG 2023/06/25 21:26:29 creating alias: /tags/markdown/page/1/index.html redirecting to http://localhost:1313/tags/markdown/
+DEBUG 2023/06/25 21:26:29 Render page Códigos curtos to "/tags/shortcodes/index.html"
+DEBUG 2023/06/25 21:26:29 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:26:29 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:26:29 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Authors to "/authors/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Posts to "/posts/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Guia do Thema to "/series/guia-do-thema/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Categories to "/categories/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Series to "/series/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Hugo to "/series/hugo/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Theme to "/series/theme/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Themes Guide to "/series/themes-guide/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Tags to "/tags/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page Development to "/categories/development/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page css to "/tags/css/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page hugo to "/tags/hugo/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page markdown to "/tags/markdown/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page privacy to "/tags/privacy/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page text to "/tags/text/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page themes to "/tags/themes/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page emoji to "/tags/emoji/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page html to "/tags/html/index.xml"
+DEBUG 2023/06/25 21:26:29 Render page development to "/tags/development/index.xml"
+LOG:   2023/06/25 21:26:29 Built in 88 ms
+LOG:   2023/06/25 21:26:29 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
+INFO 2023/06/25 21:27:09 syncing static files to /home/jose/projects/s3_website/website/hugo_personal/public/
+DEBUG 2023/06/25 21:27:09 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:27:09 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:27:09 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:27:09 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:27:09 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Emoji Support to "/posts/emoji-support/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Página Externa: Wiki Hugo Coder to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:27:09 Render page External Page: Hugo Coder Wiki to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:27:09 Render page HTML and CSS only tabs to "/posts/html-and-css-only-tabs/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Suporte a Emojis to "/posts/emoji-support.pt-br/index.html"
+DEBUG 2023/06/25 21:27:09 found menu: "main", in site config
+DEBUG 2023/06/25 21:27:09 Render page Guia de Sintaxe Markdown to "/posts/markdown-syntax.pt-br/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Markdown Syntax Guide to "/posts/markdown-syntax/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Configuração de Equações Matemáticas to "/posts/math-typesetting.pt-br/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Math Typesetting to "/posts/math-typesetting/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Mermaid JS support to "/posts/mermaid-support/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Mais Conteúdo Rico to "/posts/more-rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:27:09 Render page More Rich Content to "/posts/more-rich-content/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Texto de Exemplo to "/posts/placeholder-text.pt-br/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Conteúdo Rico to "/posts/rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Rich Content to "/posts/rich-content/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:27:09 Render page sintaxe to "/categoria/sintaxe/index.html"
+DEBUG 2023/06/25 21:27:09 Render page temas to "/categoria/temas/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Authors to "/authors/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Series to "/series/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Guia do Thema to "/series/guia-do-thema/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Theme to "/series/theme/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /series/theme/page/1/index.html redirecting to http://localhost:1313/series/theme/
+DEBUG 2023/06/25 21:27:09 creating alias: /series/guia-do-thema/page/1/index.html redirecting to http://localhost:1313/series/guia-do-thema/
+DEBUG 2023/06/25 21:27:09 Render page Hugo to "/series/hugo/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Themes Guide to "/series/themes-guide/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /series/hugo/page/1/index.html redirecting to http://localhost:1313/series/hugo/
+DEBUG 2023/06/25 21:27:09 creating alias: /series/themes-guide/page/1/index.html redirecting to http://localhost:1313/series/themes-guide/
+DEBUG 2023/06/25 21:27:09 Render page Tags to "/tags/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Categories to "/categories/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Posts to "/posts/index.html"
+DEBUG 2023/06/25 21:27:09 Render page Development to "/categories/development/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /categories/development/page/1/index.html redirecting to http://localhost:1313/categories/development/
+DEBUG 2023/06/25 21:27:09 Render page markdown to "/tags/markdown/index.html"
+DEBUG 2023/06/25 21:27:09 Render page css to "/tags/css/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/css/page/1/index.html redirecting to http://localhost:1313/tags/css/
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/markdown/page/1/index.html redirecting to http://localhost:1313/tags/markdown/
+DEBUG 2023/06/25 21:27:09 Render page privacy to "/tags/privacy/index.html"
+DEBUG 2023/06/25 21:27:09 Render page development to "/tags/development/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/development/page/1/index.html redirecting to http://localhost:1313/tags/development/
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/privacy/page/1/index.html redirecting to http://localhost:1313/tags/privacy/
+DEBUG 2023/06/25 21:27:09 Render page text to "/tags/text/index.html"
+DEBUG 2023/06/25 21:27:09 Render page emoji to "/tags/emoji/index.html"
+DEBUG 2023/06/25 21:27:09 Render page themes to "/tags/themes/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/emoji/page/1/index.html redirecting to http://localhost:1313/tags/emoji/
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/themes/page/1/index.html redirecting to http://localhost:1313/tags/themes/
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/text/page/1/index.html redirecting to http://localhost:1313/tags/text/
+DEBUG 2023/06/25 21:27:09 Render page html to "/tags/html/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/html/page/1/index.html redirecting to http://localhost:1313/tags/html/
+DEBUG 2023/06/25 21:27:09 Render page hugo to "/tags/hugo/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /tags/hugo/page/1/index.html redirecting to http://localhost:1313/tags/hugo/
+DEBUG 2023/06/25 21:27:09 Render page Códigos curtos to "/tags/shortcodes/index.html"
+DEBUG 2023/06/25 21:27:09 creating alias: /posts/page/1/index.html redirecting to http://localhost:1313/posts/
+DEBUG 2023/06/25 21:27:09 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:27:09 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:27:09 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:27:09 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Authors to "/authors/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Series to "/series/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Development to "/categories/development/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Posts to "/posts/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Hugo to "/series/hugo/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Theme to "/series/theme/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Categories to "/categories/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Themes Guide to "/series/themes-guide/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Guia do Thema to "/series/guia-do-thema/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page Tags to "/tags/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page emoji to "/tags/emoji/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page hugo to "/tags/hugo/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page markdown to "/tags/markdown/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page privacy to "/tags/privacy/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page text to "/tags/text/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page themes to "/tags/themes/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page html to "/tags/html/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page css to "/tags/css/index.xml"
+DEBUG 2023/06/25 21:27:09 Render page development to "/tags/development/index.xml"
+LOG:   2023/06/25 21:27:09 Built in 92 ms
+LOG:   2023/06/25 21:27:09 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
+INFO 2023/06/25 21:27:53 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": REMOVE]
+LOG:   2023/06/25 21:27:53 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:27:53 2023-06-25 21:27:53.206 +0100
+DEBUG 2023/06/25 21:27:53 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about.md\": WRITE"]
+DEBUG 2023/06/25 21:27:53 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:27:53 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:27:53 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:27:53 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:27:53 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:27:53 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:27:53 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:27:53 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:27:53 found menu: "main", in site config
+DEBUG 2023/06/25 21:27:53 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:27:53 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:27:53 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:27:53 Total in 6 ms
+INFO 2023/06/25 21:28:26 syncing static files to /home/jose/projects/s3_website/website/hugo_personal/public/
+DEBUG 2023/06/25 21:28:26 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:28:26 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:28:26 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:28:26 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:28:26 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Suporte a Emojis to "/posts/emoji-support.pt-br/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Página Externa: Wiki Hugo Coder to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Emoji Support to "/posts/emoji-support/index.html"
+DEBUG 2023/06/25 21:28:26 Render page External Page: Hugo Coder Wiki to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:28:26 Render page HTML and CSS only tabs to "/posts/html-and-css-only-tabs/index.html"
+DEBUG 2023/06/25 21:28:26 found menu: "main", in site config
+DEBUG 2023/06/25 21:28:26 Render page Guia de Sintaxe Markdown to "/posts/markdown-syntax.pt-br/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Markdown Syntax Guide to "/posts/markdown-syntax/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Configuração de Equações Matemáticas to "/posts/math-typesetting.pt-br/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Mais Conteúdo Rico to "/posts/more-rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:28:26 Render page More Rich Content to "/posts/more-rich-content/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Mermaid JS support to "/posts/mermaid-support/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Math Typesetting to "/posts/math-typesetting/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Texto de Exemplo to "/posts/placeholder-text.pt-br/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Conteúdo Rico to "/posts/rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Rich Content to "/posts/rich-content/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Posts to "/posts/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Development to "/categories/development/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /categories/development/page/1/index.html redirecting to http://localhost:1313/categories/development/
+DEBUG 2023/06/25 21:28:26 Render page sintaxe to "/categoria/sintaxe/index.html"
+DEBUG 2023/06/25 21:28:26 Render page temas to "/categoria/temas/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Authors to "/authors/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Categories to "/categories/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:28:26 Render page Series to "/series/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Guia do Thema to "/series/guia-do-thema/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Themes Guide to "/series/themes-guide/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /series/themes-guide/page/1/index.html redirecting to http://localhost:1313/series/themes-guide/
+DEBUG 2023/06/25 21:28:26 creating alias: /series/guia-do-thema/page/1/index.html redirecting to http://localhost:1313/series/guia-do-thema/
+DEBUG 2023/06/25 21:28:26 Render page Hugo to "/series/hugo/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /series/hugo/page/1/index.html redirecting to http://localhost:1313/series/hugo/
+DEBUG 2023/06/25 21:28:26 Render page Tags to "/tags/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /posts/page/1/index.html redirecting to http://localhost:1313/posts/
+DEBUG 2023/06/25 21:28:26 Render page html to "/tags/html/index.html"
+DEBUG 2023/06/25 21:28:26 Render page hugo to "/tags/hugo/index.html"
+DEBUG 2023/06/25 21:28:26 Render page emoji to "/tags/emoji/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/html/page/1/index.html redirecting to http://localhost:1313/tags/html/
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/hugo/page/1/index.html redirecting to http://localhost:1313/tags/hugo/
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/emoji/page/1/index.html redirecting to http://localhost:1313/tags/emoji/
+DEBUG 2023/06/25 21:28:26 Render page markdown to "/tags/markdown/index.html"
+DEBUG 2023/06/25 21:28:26 Render page css to "/tags/css/index.html"
+DEBUG 2023/06/25 21:28:26 Render page privacy to "/tags/privacy/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/privacy/page/1/index.html redirecting to http://localhost:1313/tags/privacy/
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/markdown/page/1/index.html redirecting to http://localhost:1313/tags/markdown/
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/css/page/1/index.html redirecting to http://localhost:1313/tags/css/
+DEBUG 2023/06/25 21:28:26 Render page text to "/tags/text/index.html"
+DEBUG 2023/06/25 21:28:26 Render page themes to "/tags/themes/index.html"
+DEBUG 2023/06/25 21:28:26 Render page Theme to "/series/theme/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/text/page/1/index.html redirecting to http://localhost:1313/tags/text/
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/themes/page/1/index.html redirecting to http://localhost:1313/tags/themes/
+DEBUG 2023/06/25 21:28:26 creating alias: /series/theme/page/1/index.html redirecting to http://localhost:1313/series/theme/
+DEBUG 2023/06/25 21:28:26 Render page development to "/tags/development/index.html"
+DEBUG 2023/06/25 21:28:26 creating alias: /tags/development/page/1/index.html redirecting to http://localhost:1313/tags/development/
+DEBUG 2023/06/25 21:28:26 Render page Códigos curtos to "/tags/shortcodes/index.html"
+DEBUG 2023/06/25 21:28:26 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:28:26 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:28:26 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Posts to "/posts/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Authors to "/authors/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Categories to "/categories/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Series to "/series/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Guia do Thema to "/series/guia-do-thema/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Development to "/categories/development/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Hugo to "/series/hugo/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Theme to "/series/theme/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Themes Guide to "/series/themes-guide/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page Tags to "/tags/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page css to "/tags/css/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page emoji to "/tags/emoji/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page development to "/tags/development/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page html to "/tags/html/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page hugo to "/tags/hugo/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page text to "/tags/text/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page themes to "/tags/themes/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page markdown to "/tags/markdown/index.xml"
+DEBUG 2023/06/25 21:28:26 Render page privacy to "/tags/privacy/index.xml"
+LOG:   2023/06/25 21:28:26 Built in 90 ms
+LOG:   2023/06/25 21:28:26 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
+INFO 2023/06/25 21:28:46 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": REMOVE]
+LOG:   2023/06/25 21:28:46 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:28:46 2023-06-25 21:28:46.046 +0100
+DEBUG 2023/06/25 21:28:46 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about.md\": WRITE"]
+DEBUG 2023/06/25 21:28:46 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:28:46 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:28:46 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:28:46 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:28:46 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:28:46 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:28:46 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:28:46 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:28:46 found menu: "main", in site config
+DEBUG 2023/06/25 21:28:46 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:28:46 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:28:46 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:28:46 Total in 4 ms
+INFO 2023/06/25 21:29:16 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": REMOVE]
+LOG:   2023/06/25 21:29:16 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:29:16 2023-06-25 21:29:16.545 +0100
+DEBUG 2023/06/25 21:29:16 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about.md\": WRITE"]
+DEBUG 2023/06/25 21:29:16 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:29:16 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:29:16 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:29:16 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:29:16 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:29:16 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:29:16 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:29:16 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:29:16 found menu: "main", in site config
+DEBUG 2023/06/25 21:29:16 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:29:16 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:29:16 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:29:16 Total in 4 ms
+INFO 2023/06/25 21:29:28 syncing static files to /home/jose/projects/s3_website/website/hugo_personal/public/
+DEBUG 2023/06/25 21:29:28 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:29:28 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:29:28 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:29:28 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:29:28 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Emoji Support to "/posts/emoji-support/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Suporte a Emojis to "/posts/emoji-support.pt-br/index.html"
+DEBUG 2023/06/25 21:29:28 Render page HTML and CSS only tabs to "/posts/html-and-css-only-tabs/index.html"
+DEBUG 2023/06/25 21:29:28 Render page External Page: Hugo Coder Wiki to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Página Externa: Wiki Hugo Coder to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:29:28 found menu: "main", in site config
+DEBUG 2023/06/25 21:29:28 Render page Guia de Sintaxe Markdown to "/posts/markdown-syntax.pt-br/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Markdown Syntax Guide to "/posts/markdown-syntax/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Configuração de Equações Matemáticas to "/posts/math-typesetting.pt-br/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Math Typesetting to "/posts/math-typesetting/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Mermaid JS support to "/posts/mermaid-support/index.html"
+DEBUG 2023/06/25 21:29:28 Render page More Rich Content to "/posts/more-rich-content/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Mais Conteúdo Rico to "/posts/more-rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Texto de Exemplo to "/posts/placeholder-text.pt-br/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Conteúdo Rico to "/posts/rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Rich Content to "/posts/rich-content/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Posts to "/posts/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Categories to "/categories/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:29:28 Render page temas to "/categoria/temas/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Authors to "/authors/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Development to "/categories/development/index.html"
+DEBUG 2023/06/25 21:29:28 creating alias: /categories/development/page/1/index.html redirecting to http://localhost:1313/categories/development/
+DEBUG 2023/06/25 21:29:28 Render page sintaxe to "/categoria/sintaxe/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Series to "/series/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Hugo to "/series/hugo/index.html"
+DEBUG 2023/06/25 21:29:28 Render page Guia do Thema to "/series/guia-do-thema/index.html"
+DEBUG 2023/06/25 21:29:28 creating alias: /posts/page/1/index.html redirecting to http://localhost:1313/posts/
+DEBUG 2023/06/25 21:29:28 Render page Theme to "/series/theme/index.html"
+DEBUG 2023/06/25 21:29:28 creating alias: /series/hugo/page/1/index.html redirecting to http://localhost:1313/series/hugo/
+DEBUG 2023/06/25 21:29:28 creating alias: /series/guia-do-thema/page/1/index.html redirecting to http://localhost:1313/series/guia-do-thema/
+DEBUG 2023/06/25 21:29:28 Render page Themes Guide to "/series/themes-guide/index.html"
+DEBUG 2023/06/25 21:29:28 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:29:28 creating alias: /series/theme/page/1/index.html redirecting to http://localhost:1313/series/theme/
+DEBUG 2023/06/25 21:29:28 creating alias: /series/themes-guide/page/1/index.html redirecting to http://localhost:1313/series/themes-guide/
+DEBUG 2023/06/25 21:29:28 Render page css to "/tags/css/index.html"
+DEBUG 2023/06/25 21:29:28 Render page hugo to "/tags/hugo/index.html"
+DEBUG 2023/06/25 21:29:28 Render page html to "/tags/html/index.html"
+DEBUG 2023/06/25 21:29:28 Render page markdown to "/tags/markdown/index.html"
+DEBUG 2023/06/25 21:29:28 Render page privacy to "/tags/privacy/index.html"
+DEBUG 2023/06/25 21:29:28 Render page development to "/tags/development/index.html"
+DEBUG 2023/06/25 21:29:28 Render page emoji to "/tags/emoji/index.html"
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/emoji/page/1/index.html redirecting to http://localhost:1313/tags/emoji/
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/css/page/1/index.html redirecting to http://localhost:1313/tags/css/
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/html/page/1/index.html redirecting to http://localhost:1313/tags/html/
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/markdown/page/1/index.html redirecting to http://localhost:1313/tags/markdown/
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/hugo/page/1/index.html redirecting to http://localhost:1313/tags/hugo/
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/privacy/page/1/index.html redirecting to http://localhost:1313/tags/privacy/
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/development/page/1/index.html redirecting to http://localhost:1313/tags/development/
+DEBUG 2023/06/25 21:29:28 Render page Tags to "/tags/index.html"
+DEBUG 2023/06/25 21:29:28 Render page text to "/tags/text/index.html"
+DEBUG 2023/06/25 21:29:28 Render page themes to "/tags/themes/index.html"
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/text/page/1/index.html redirecting to http://localhost:1313/tags/text/
+DEBUG 2023/06/25 21:29:28 creating alias: /tags/themes/page/1/index.html redirecting to http://localhost:1313/tags/themes/
+DEBUG 2023/06/25 21:29:28 Render page Códigos curtos to "/tags/shortcodes/index.html"
+DEBUG 2023/06/25 21:29:28 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:29:28 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:29:28 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Development to "/categories/development/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Posts to "/posts/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Authors to "/authors/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Series to "/series/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Hugo to "/series/hugo/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Theme to "/series/theme/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Themes Guide to "/series/themes-guide/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Tags to "/tags/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page css to "/tags/css/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page emoji to "/tags/emoji/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Guia do Thema to "/series/guia-do-thema/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page Categories to "/categories/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page hugo to "/tags/hugo/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page development to "/tags/development/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page markdown to "/tags/markdown/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page privacy to "/tags/privacy/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page text to "/tags/text/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page html to "/tags/html/index.xml"
+DEBUG 2023/06/25 21:29:28 Render page themes to "/tags/themes/index.xml"
+LOG:   2023/06/25 21:29:28 Built in 88 ms
+LOG:   2023/06/25 21:29:28 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
+DEBUG 2023/06/25 21:29:42 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:29:42 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:29:42 Render page Projects to "/projects/index.html"
+INFO 2023/06/25 21:31:12 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": REMOVE]
+LOG:   2023/06/25 21:31:12 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:31:12 2023-06-25 21:31:12.907 +0100
+DEBUG 2023/06/25 21:31:12 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about.md\": WRITE"]
+DEBUG 2023/06/25 21:31:12 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:31:12 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:31:12 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:31:12 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:31:12 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:31:12 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:31:12 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:31:12 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:31:12 found menu: "main", in site config
+DEBUG 2023/06/25 21:31:12 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:31:12 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:31:12 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:31:12 Total in 7 ms
+INFO 2023/06/25 21:31:21 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": REMOVE]
+LOG:   2023/06/25 21:31:21 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:31:21 2023-06-25 21:31:21.408 +0100
+DEBUG 2023/06/25 21:31:21 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about.md\": WRITE"]
+DEBUG 2023/06/25 21:31:21 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:31:21 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:31:21 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:31:21 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:31:21 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:31:21 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:31:21 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:31:21 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:31:21 found menu: "main", in site config
+DEBUG 2023/06/25 21:31:21 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:31:21 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:31:21 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:31:21 Total in 4 ms
+INFO 2023/06/25 21:31:39 syncing static files to /home/jose/projects/s3_website/website/hugo_personal/public/
+DEBUG 2023/06/25 21:31:39 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:31:39 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:31:39 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:31:39 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:31:39 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:31:39 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Suporte a Emojis to "/posts/emoji-support.pt-br/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Emoji Support to "/posts/emoji-support/index.html"
+DEBUG 2023/06/25 21:31:39 Render page HTML and CSS only tabs to "/posts/html-and-css-only-tabs/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Página Externa: Wiki Hugo Coder to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:31:39 Render page External Page: Hugo Coder Wiki to "/posts/hugo-coder-wiki/index.html"
+DEBUG 2023/06/25 21:31:39 found menu: "main", in site config
+DEBUG 2023/06/25 21:31:39 Render page Guia de Sintaxe Markdown to "/posts/markdown-syntax.pt-br/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Markdown Syntax Guide to "/posts/markdown-syntax/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Configuração de Equações Matemáticas to "/posts/math-typesetting.pt-br/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Math Typesetting to "/posts/math-typesetting/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Mermaid JS support to "/posts/mermaid-support/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Mais Conteúdo Rico to "/posts/more-rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:31:39 Render page More Rich Content to "/posts/more-rich-content/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Texto de Exemplo to "/posts/placeholder-text.pt-br/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Conteúdo Rico to "/posts/rich-content.pt-br/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Rich Content to "/posts/rich-content/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Authors to "/authors/index.html"
+DEBUG 2023/06/25 21:31:39 Render page sintaxe to "/categoria/sintaxe/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Series to "/series/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Hugo to "/series/hugo/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Guia do Thema to "/series/guia-do-thema/index.html"
+DEBUG 2023/06/25 21:31:39 creating alias: /series/hugo/page/1/index.html redirecting to http://localhost:1313/series/hugo/
+DEBUG 2023/06/25 21:31:39 creating alias: /series/guia-do-thema/page/1/index.html redirecting to http://localhost:1313/series/guia-do-thema/
+DEBUG 2023/06/25 21:31:39 Render page Theme to "/series/theme/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Themes Guide to "/series/themes-guide/index.html"
+DEBUG 2023/06/25 21:31:39 Render page temas to "/categoria/temas/index.html"
+DEBUG 2023/06/25 21:31:39 creating alias: /series/themes-guide/page/1/index.html redirecting to http://localhost:1313/series/themes-guide/
+DEBUG 2023/06/25 21:31:39 creating alias: /series/theme/page/1/index.html redirecting to http://localhost:1313/series/theme/
+DEBUG 2023/06/25 21:31:39 Render page Posts to "/posts/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Categories to "/categories/index.html"
+DEBUG 2023/06/25 21:31:39 Render page Development to "/categories/development/index.html"
+DEBUG 2023/06/25 21:31:39 creating alias: /categories/development/page/1/index.html redirecting to http://localhost:1313/categories/development/
+DEBUG 2023/06/25 21:31:39 Render page Tags to "/tags/index.html"
+DEBUG 2023/06/25 21:31:39 Render page css to "/tags/css/index.html"
+DEBUG 2023/06/25 21:31:39 Render page html to "/tags/html/index.html"
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/css/page/1/index.html redirecting to http://localhost:1313/tags/css/
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/html/page/1/index.html redirecting to http://localhost:1313/tags/html/
+DEBUG 2023/06/25 21:31:39 Render page markdown to "/tags/markdown/index.html"
+DEBUG 2023/06/25 21:31:39 Render page development to "/tags/development/index.html"
+DEBUG 2023/06/25 21:31:39 Render page hugo to "/tags/hugo/index.html"
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/markdown/page/1/index.html redirecting to http://localhost:1313/tags/markdown/
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/development/page/1/index.html redirecting to http://localhost:1313/tags/development/
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/hugo/page/1/index.html redirecting to http://localhost:1313/tags/hugo/
+DEBUG 2023/06/25 21:31:39 Render page privacy to "/tags/privacy/index.html"
+DEBUG 2023/06/25 21:31:39 Render page emoji to "/tags/emoji/index.html"
+DEBUG 2023/06/25 21:31:39 Render page text to "/tags/text/index.html"
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/privacy/page/1/index.html redirecting to http://localhost:1313/tags/privacy/
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/emoji/page/1/index.html redirecting to http://localhost:1313/tags/emoji/
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/text/page/1/index.html redirecting to http://localhost:1313/tags/text/
+DEBUG 2023/06/25 21:31:39 Render page Códigos curtos to "/tags/shortcodes/index.html"
+DEBUG 2023/06/25 21:31:39 Render page themes to "/tags/themes/index.html"
+DEBUG 2023/06/25 21:31:39 creating alias: /tags/themes/page/1/index.html redirecting to http://localhost:1313/tags/themes/
+DEBUG 2023/06/25 21:31:39 creating alias: /posts/page/1/index.html redirecting to http://localhost:1313/posts/
+DEBUG 2023/06/25 21:31:39 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:31:39 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:31:39 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:31:39 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Posts to "/posts/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Development to "/categories/development/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Authors to "/authors/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Hugo to "/series/hugo/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Theme to "/series/theme/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Categories to "/categories/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Themes Guide to "/series/themes-guide/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Series to "/series/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Tags to "/tags/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page Guia do Thema to "/series/guia-do-thema/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page emoji to "/tags/emoji/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page css to "/tags/css/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page hugo to "/tags/hugo/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page html to "/tags/html/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page markdown to "/tags/markdown/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page development to "/tags/development/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page text to "/tags/text/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page privacy to "/tags/privacy/index.xml"
+DEBUG 2023/06/25 21:31:39 Render page themes to "/tags/themes/index.xml"
+LOG:   2023/06/25 21:31:39 Built in 86 ms
+LOG:   2023/06/25 21:31:39 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
+DEBUG 2023/06/25 21:31:45 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:31:45 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:31:45 Render page Contact to "/contact/index.html"
+INFO 2023/06/25 21:32:54 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": REMOVE]
+LOG:   2023/06/25 21:32:54 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:32:54 2023-06-25 21:32:54.993 +0100
+DEBUG 2023/06/25 21:32:54 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about.md\": WRITE"]
+DEBUG 2023/06/25 21:32:54 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:32:54 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:32:54 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:32:54 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:32:54 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:32:54 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:32:54 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:32:54 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:32:54 found menu: "main", in site config
+DEBUG 2023/06/25 21:32:54 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:32:54 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:32:54 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:32:54 Total in 3 ms
+INFO 2023/06/25 21:33:29 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about_en.md": REMOVE]
+LOG:   2023/06/25 21:33:29 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:33:29 2023-06-25 21:33:29.494 +0100
+DEBUG 2023/06/25 21:33:29 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about_en.md\": REMOVE"]
+DEBUG 2023/06/25 21:33:29 creating alias: /contact redirecting to http://localhost:1313/about/
+DEBUG 2023/06/25 21:33:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:33:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:33:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:33:29 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:33:29 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:33:29 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:33:29 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:33:29 found menu: "main", in site config
+DEBUG 2023/06/25 21:33:29 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:33:29 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:33:29 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:33:29 Total in 6 ms
+DEBUG 2023/06/25 21:33:45 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:33:45 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:33:45 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:33:52 Render page About to "/about/index.html"
+DEBUG 2023/06/25 21:33:52 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:33:52 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:33:52 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:33:52 Render page Jose Santos to "/index.xml"
+INFO 2023/06/25 21:36:29 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/about.md~": REMOVE]
+LOG:   2023/06/25 21:36:29 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:36:29 2023-06-25 21:36:29.993 +0100
+DEBUG 2023/06/25 21:36:29 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/about.md\": WRITE"]
+DEBUG 2023/06/25 21:36:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:36:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:36:29 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:36:29 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:36:29 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:36:29 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:36:29 found menu: "main", in site config
+DEBUG 2023/06/25 21:36:29 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:36:29 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:36:29 Render page Jose Santos to "/index.xml"
+LOG:   2023/06/25 21:36:29 Total in 3 ms
+INFO 2023/06/25 21:36:52 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.pt-br.md": REMOVE]
+LOG:   2023/06/25 21:36:52 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:36:52 2023-06-25 21:36:52.493 +0100
+DEBUG 2023/06/25 21:36:52 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.pt-br.md\": REMOVE"]
+DEBUG 2023/06/25 21:36:52 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/html-and-css-only-tabs/
+DEBUG 2023/06/25 21:36:52 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax.pt-br/
+DEBUG 2023/06/25 21:36:52 creating alias: /posts/migrate-from-jekyl redirecting to http://localhost:1313/posts/markdown-syntax/
+DEBUG 2023/06/25 21:36:52 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:36:52 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:36:52 Render page Contact to "/contact/index.html"
+DEBUG 2023/06/25 21:36:52 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:36:52 found menu: "main", in site config
+DEBUG 2023/06/25 21:36:52 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:36:52 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:36:52 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:36:52 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:36:52 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:36:52 Total in 7 ms
+INFO 2023/06/25 21:37:21 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/categories/syntax/_index.pt-br.md": REMOVE]
+LOG:   2023/06/25 21:37:21 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:37:21 2023-06-25 21:37:21.493 +0100
+DEBUG 2023/06/25 21:37:21 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/categories/syntax/_index.pt-br.md\": REMOVE"]
+DEBUG 2023/06/25 21:37:21 Render page sintaxe to "/categoria/sintaxe/index.html"
+DEBUG 2023/06/25 21:37:21 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:37:21 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:37:21 found menu: "main", in site config
+DEBUG 2023/06/25 21:37:21 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:37:21 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:37:21 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:37:21 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:37:21 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:37:21 Total in 2 ms
+INFO 2023/06/25 21:37:30 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/categories/themes/_index.pt-br.md": REMOVE]
+LOG:   2023/06/25 21:37:30 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:37:30 2023-06-25 21:37:30.493 +0100
+DEBUG 2023/06/25 21:37:30 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/categories/themes/_index.pt-br.md\": REMOVE"]
+DEBUG 2023/06/25 21:37:30 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:37:30 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:37:30 Render page temas to "/categoria/temas/index.html"
+DEBUG 2023/06/25 21:37:30 found menu: "main", in site config
+DEBUG 2023/06/25 21:37:30 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:37:30 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:37:30 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:37:30 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:37:30 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:37:30 Total in 2 ms
+INFO 2023/06/25 21:38:14 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/categories/syntax": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/categories/syntax": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/categories/themes": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/categories/themes": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/categories": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/categories": REMOVE]
+LOG:   2023/06/25 21:38:14 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:38:14 2023-06-25 21:38:14.493 +0100
+DEBUG 2023/06/25 21:38:14 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/categories/syntax\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/categories/themes\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/categories\": REMOVE"]
+DEBUG 2023/06/25 21:38:14 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:38:14 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:38:14 found menu: "main", in site config
+DEBUG 2023/06/25 21:38:14 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:38:14 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:38:14 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:38:14 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:38:14 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:38:14 Total in 2 ms
+INFO 2023/06/25 21:38:35 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/posts/emoji-support.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/emoji-support.pt-br.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/external-post.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/external-post.pt-br.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/html-and-css-only-tabs.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/markdown-syntax.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/markdown-syntax.pt-br.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/math-typesetting.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/math-typesetting.pt-br.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/mermaid-support.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/more-rich-content.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/more-rich-content.pt-br.md": REMOVE]
+LOG:   2023/06/25 21:38:35 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:38:35 2023-06-25 21:38:35.493 +0100
+DEBUG 2023/06/25 21:38:35 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/emoji-support.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/emoji-support.pt-br.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/external-post.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/external-post.pt-br.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/html-and-css-only-tabs.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/markdown-syntax.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/markdown-syntax.pt-br.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/math-typesetting.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/math-typesetting.pt-br.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/mermaid-support.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/more-rich-content.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/more-rich-content.pt-br.md\": REMOVE"]
+DEBUG 2023/06/25 21:38:35 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:38:35 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:38:35 found menu: "main", in site config
+DEBUG 2023/06/25 21:38:35 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:38:35 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:38:35 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:38:35 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:38:35 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:38:35 Total in 2 ms
+INFO 2023/06/25 21:38:43 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.pt-br.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/rich-content.md": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/rich-content.pt-br.md": REMOVE]
+LOG:   2023/06/25 21:38:43 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:38:43 2023-06-25 21:38:43.994 +0100
+DEBUG 2023/06/25 21:38:43 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.pt-br.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/rich-content.md\": REMOVE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/rich-content.pt-br.md\": REMOVE"]
+DEBUG 2023/06/25 21:38:43 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:38:43 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:38:43 found menu: "main", in site config
+DEBUG 2023/06/25 21:38:43 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:38:43 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:38:43 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:38:43 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:38:43 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:38:43 Total in 2 ms
+INFO 2023/06/25 21:39:53 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/contact.md": REMOVE]
+LOG:   2023/06/25 21:39:53 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:39:53 2023-06-25 21:39:53.993 +0100
+DEBUG 2023/06/25 21:39:53 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/contact.md\": REMOVE"]
+DEBUG 2023/06/25 21:39:53 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:39:53 Render page Authors of Hugo to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:39:53 found menu: "main", in site config
+DEBUG 2023/06/25 21:39:53 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:39:53 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:39:53 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:39:53 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:39:53 Render page Authors of Hugo to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:39:53 Total in 2 ms
+INFO 2023/06/25 21:44:04 Received System Events: ["/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.md~": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/projects.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/projects.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/projects.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/projects.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/projects.md~": REMOVE "/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.md~": CREATE "/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.md~": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.md": WRITE "/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.md~": REMOVE]
+LOG:   2023/06/25 21:44:04 
+Change detected, rebuilding site.
+LOG:   2023/06/25 21:44:04 2023-06-25 21:44:04.994 +0100
+DEBUG 2023/06/25 21:44:04 Rebuild for events ["\"/home/jose/projects/s3_website/website/hugo_personal/content/posts/placeholder-text.md\": WRITE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/projects.md\": WRITE" "\"/home/jose/projects/s3_website/website/hugo_personal/content/authors/hugo-authors/_index.md\": WRITE"]
+DEBUG 2023/06/25 21:44:04 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:44:04 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 21:44:04 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:44:04 Render page Jose Santos to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:44:04 found menu: "main", in site config
+DEBUG 2023/06/25 21:44:04 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:44:04 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:44:04 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:44:04 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:44:04 Render page Jose Santos to "/authors/hugo-authors/index.xml"
+LOG:   2023/06/25 21:44:04 Total in 3 ms
+INFO 2023/06/25 21:45:24 syncing static files to /home/jose/projects/s3_website/website/hugo_personal/public/
+DEBUG 2023/06/25 21:45:24 Render page Projects to "/projects/index.html"
+DEBUG 2023/06/25 21:45:24 Render page Posts to "/posts/index.html"
+DEBUG 2023/06/25 21:45:24 Render page Placeholder Text to "/posts/placeholder-text/index.html"
+DEBUG 2023/06/25 21:45:24 Render page Jose Santos to "/authors/hugo-authors/index.html"
+DEBUG 2023/06/25 21:45:24 Render page Authors to "/authors/index.html"
+DEBUG 2023/06/25 21:45:24 Render page Jose Santos to "/index.html"
+DEBUG 2023/06/25 21:45:24 Render page Series to "/series/index.html"
+DEBUG 2023/06/25 21:45:24 Render page Categories to "/categories/index.html"
+DEBUG 2023/06/25 21:45:24 found menu: "main", in site config
+DEBUG 2023/06/25 21:45:24 creating alias: /posts/page/1/index.html redirecting to http://localhost:1313/posts/
+DEBUG 2023/06/25 21:45:24 creating alias: /authors/hugo-authors/page/1/index.html redirecting to http://localhost:1313/authors/hugo-authors/
+DEBUG 2023/06/25 21:45:24 Render page Tags to "/tags/index.html"
+DEBUG 2023/06/25 21:45:24 Render page markdown to "/tags/markdown/index.html"
+DEBUG 2023/06/25 21:45:24 creating alias: /tags/markdown/page/1/index.html redirecting to http://localhost:1313/tags/markdown/
+DEBUG 2023/06/25 21:45:24 Render page Códigos curtos to "/tags/shortcodes/index.html"
+DEBUG 2023/06/25 21:45:24 Render page text to "/tags/text/index.html"
+DEBUG 2023/06/25 21:45:24 creating alias: /tags/text/page/1/index.html redirecting to http://localhost:1313/tags/text/
+DEBUG 2023/06/25 21:45:24 Render XML for "sitemap" to "/sitemap.xml"
+DEBUG 2023/06/25 21:45:24 Render 404 page to "/404.html"
+DEBUG 2023/06/25 21:45:24 Render page markdown to "/tags/markdown/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page Categories to "/categories/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page Authors to "/authors/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page Tags to "/tags/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page Jose Santos to "/authors/hugo-authors/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page text to "/tags/text/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page Jose Santos to "/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page Series to "/series/index.xml"
+DEBUG 2023/06/25 21:45:24 Render page Posts to "/posts/index.xml"
+LOG:   2023/06/25 21:45:24 Built in 67 ms
+LOG:   2023/06/25 21:45:24 Watching for config changes in /home/jose/projects/s3_website/website/hugo_personal/config.toml, /home/jose/projects/s3_website/website/hugo_personal/themes/hugo-coder/config.toml
