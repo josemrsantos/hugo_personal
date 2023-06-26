@@ -6,12 +6,14 @@
  * content/projects.md
 
 # Code to generate a new static website
-
+Start the Hugo server normally and stop it manually (Ctrl-c)
 ```commandline
-
+hugo server --renderToDisk --logFile output.log --verboseLog --verbose --debug
 ```
-
+After the Hugo server has been stopped, the static website will be on the folder named **public**.
 # Testing the website locally
-The best way to test the code locally is to generate the static website as 
-described above and then use the url *file://FULL_LOCAL_PATH_TO_THE_PUBLIC_FOLDER*.
-
+The best way to test the code locally is to run the above code, but this time do not stop it:
+```commandline
+hugo server --renderToDisk --logFile output.log --verboseLog --verbose --debug
+```
+With this server running, open a web browser with the URL: **http://localhost:1313/**
