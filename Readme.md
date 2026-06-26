@@ -17,3 +17,9 @@ The best way to test the code locally is to run the above code, but this time do
 hugo server --renderToDisk --logFile output.log --verboseLog --verbose --debug
 ```
 With this server running, open a web browser with the URL: **http://localhost:1313/**
+
+# Deploying the website to AWS S3
+The website can be deployed to AWS S3 using the following command:
+```commandline
+aws s3 sync public/ s3://josemrsantos.com --delete
+```

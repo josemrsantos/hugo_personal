@@ -6,34 +6,28 @@
     <description>Recent content on Jose Santos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/about/</guid>
-      <description>Personal  Link to heading   I am Portuguese and like photography, board games and nature walks. I also have a beautiful wife and daughter.
-Professional  Link to heading   Software engineer since 2000, I have worked on all sort of projects, but mostly in Data Engineering and data related projects. But my love for computers and software started much early, when I was 11 Years old and got a ZXSpectrum 48K where games came in &amp;ldquo;music tapes&amp;rdquo; and would load in 3 to 5 minutes.</description>
+      <description>Personal Link to heading I am Portuguese and like photography, board games and nature walks. I also have a beautiful wife and daughter.&#xA;Professional Link to heading Software engineer since 2000, I have worked on all sort of projects, but mostly in Data Engineering and data related projects. But my love for computers and software started much early, when I was 11 Years old and got a ZXSpectrum 48K where games came in &amp;ldquo;music tapes&amp;rdquo; and would load in 3 to 5 minutes.</description>
     </item>
-    
     <item>
       <title>Placeholder Text</title>
       <link>http://localhost:1313/posts/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://localhost:1313/projects/</guid>
       <description>Nothing to see here&amp;hellip; yet.</description>
     </item>
-    
   </channel>
 </rss>

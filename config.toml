@@ -39,7 +39,7 @@ customCSS = []
 customSCSS = []
 
 # Custom JS
-customJS = []
+customJS = ["js/year.js"]
 
 # Custom remote JS files
 customRemoteJS = []
